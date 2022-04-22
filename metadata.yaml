@@ -1,0 +1,36 @@
+_repo: Dionyzos_67746
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Couperus, Louis
+    alias: Couperus, Louis Marie Anne
+    birthdate: 1863
+    deathdate: 1923
+    gutenberg_agent_id: '4169'
+    url: http://www.gutenberg.org/2009/agents/4169
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Louis_Couperus
+    - https://en.wikipedia.org/wiki/Louis_Couperus
+description: ''
+gutenberg_issued: '2022-03-31'
+identifiers:
+  gutenberg: '67746'
+language: nl
+pgterms:marc904: https://archive.org/details/dionyzos00coup/page/n6
+pgterms:marc905: 20191004115316couperus
+pgterms:marc906: '1904'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: Netherlands :L. J. Veen,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Classical -- Fiction'
+- !lcsh 'Dionysus (Greek deity) -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Dionyzos
+url: http://www.gutenberg.org/ebooks/67746
